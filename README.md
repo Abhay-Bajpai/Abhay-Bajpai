@@ -7,7 +7,7 @@
 
 - 👯 I’m open to collaborating on **Hackathons, ML projects, or open-source tools**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://your-portfolio-link.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://abhaybajpai.vercel.app/)
 
 - 📫 Reach me at **abhayofc59@gmail.com**
 
